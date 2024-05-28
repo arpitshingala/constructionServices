@@ -293,11 +293,11 @@ function Home() {
           <div className="carousel-item5 carousel-item"></div>
 
           <a className="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
-            <span className="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+            <span className="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"><i class="fa-solid fa-chevron-left"></i></span>
           </a>
 
           <a className="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
-            <span className="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+            <span className="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"><i class="fa-solid fa-chevron-right"></i></span>
           </a>
         </div>
       </section>
